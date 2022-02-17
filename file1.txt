@@ -1,3 +1,2 @@
 My Name is Priyatham Rathod.
-hello
-hi
+This is second sum in SL Assignment 2.
